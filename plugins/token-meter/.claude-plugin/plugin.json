@@ -1,0 +1,5 @@
+{
+  "name": "token-meter",
+  "version": "0.2.0",
+  "description": "Always shows how many tokens this chat's context window holds, in the status line under the prompt."
+}

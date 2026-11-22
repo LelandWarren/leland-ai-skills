@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+plugins/token-meter/.claude-plugin/types/claude-code*/
